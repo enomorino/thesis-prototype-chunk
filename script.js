@@ -25,50 +25,74 @@ const chunks = [
             When you do that, you retain whatever ownership rights to that content you had to begin with.
             But, you grant us a licence to use that content.</p>
 
+            <p><span class="highlight">How broad that licence is</span> depends on which Services you use 
+            and the settings you have selected.</p>
+
             <p>For all content you create using the Services, you grant Crystal Clear and our affiliates
             a <span class="highlight">worldwide, royalty-free</span> (meaning that there is
             <span class="highlight">no ongoing payment to you required</span>), sublicencable and
             transferable licence to host, store, cache, use, display, reproduce, modify, adapt, edit,
             publish, analyse, transmit and distribute that content, including the
             <span class="highlight">name, image, likeness or voice</span> of anyone featured in it.</p>
-
-            <p>This licence is for the limited purpose of operating, developing, providing, promoting
-            and improving the Services and researching and developing new ones.</p>
         `
     },
     {
         title: "Rights You Grant Us — Part 2",
         content: `
-            <p>We call Public Story submissions and any other content you submit to public Services
-            "Public Content". Because Public Content is inherently public, you grant Crystal Clear,
-            our affiliates, other users of the Services and our business partners a
-            <span class="highlight">worldwide, royalty-free and irrevocable right and licence</span>
-            to create derivative works from, promote, exhibit, broadcast, syndicate, reproduce,
-            distribute, and publicly display all or any portion of your Public Content in any form
-            and in any and all media or distribution methods, now known or later developed.</p>
+            <p>This licence is for the limited purpose of operating, developing, providing, promoting
+            and improving the Services and researching and developing new ones.</p>
 
-            <p>This licence applies to the
-            <span class="highlight">name, image, likeness and voice</span> of anyone featured in
-            Public Content that you create, upload, post, send or appear in.</p>
+            <p>This licence includes a right for us to <span class="highlight">pass these rights along to service providers</span> 
+            with whom we have contractual relationships related to the provision of the Services, 
+            solely for the purpose of providing and improving such Services.</p>
+
+            <p>We call Public Story submissions and any other content you submit to public Services, 
+            like Public Profiles, Spotlight, Snap Map or Lens Studio, "Public Content".</p>
         `
     },
     {
-        title: "Rights You Grant Us — Part 3",
+        title: "Rights You Grant Us — Part 3 (Public Content)",
         content: `
-            <p>This means, among other things, that
-            <span class="highlight">you will not be entitled to any compensation</span> if your content,
-            including videos, photos, sound recordings, name, image, likeness or voice, are used by us,
-            our affiliates, users of the Services or our business partners.</p>
+            <p>Because Public Content is inherently public, you grant Crystal Clear,
+            our affiliates, other users of the Services and our business partners a
+            <span class="highlight">worldwide, royalty-free and irrevocable right and licence</span>
+            to create derivative works from, promote, exhibit, broadcast, syndicate, reproduce,
+            distribute, synchronise, <span class="highlight">overlay graphics and auditory effects on</span>, 
+            publicly perform and publicly display all or any portion of your Public Content.</p>
 
-            <p>The licences granted by you for Public Content continue for so long as the Public Content
-            is on the Services and for a
-            <span class="highlight">reasonable period of time after you remove or delete</span>
-            the Public Content from the Services (provided we may
-            <span class="highlight">retain server copies of your Public Content indefinitely</span>).</p>
+            <p>This licence applies to the separate video, image, sound recording or musical compositions, 
+            as well as the name, image, likeness and voice of anyone featured in Public Content 
+            (including as reflected in your <span class="highlight">Bitmoji</span>).</p>
+        `
+    },
+    {
+        title: "Rights You Grant Us — Part 4 (Duration & Rules)",
+        content: `
+            <p>This means you <span class="highlight">will not be entitled to any compensation</span> 
+            if your content or likeness are used by us, our affiliates, or our business partners.</p>
 
-            <p>We, Crystal Clear Inc., our affiliates and our third-party partners may place
-            <span class="highlight">personalised advertising</span> on the Services based on
-            information you provide us, we collect or we obtain about you.</p>
+            <p>The licences for Public Content continue for so long as the content is on the Services 
+            and for a reasonable period after removal (provided we may 
+            <span class="highlight">retain server copies indefinitely</span>).</p>
+
+            <p>All Public Content must be <span class="highlight">appropriate for people ages 13+</span>. 
+            To the extent permissible by law, you <span class="highlight">irrevocably waive any moral rights</span> 
+            or equivalent rights you may have in content you share throughout the world.</p>
+        `
+    },
+    {
+        title: "Rights You Grant Us — Part 5 (Monitoring & Feedback)",
+        content: `
+            <p>While we’re not required to do so, we <span class="highlight">reserve the right to access, review, screen and delete</span> 
+            any content which we think violates these Terms, the law, or our Community Guidelines.</p>
+
+            <p>You alone remain <span class="highlight">responsible for the content</span> you create or store. 
+            Additionally, we may place advertising on the Services, which may sometimes appear 
+            <span class="highlight">near, between, over or in your content</span>.</p>
+
+            <p>If you provide feedback or suggestions, we can use them 
+            <span class="highlight">without compensating you</span> and without any restriction; 
+            we will own all rights in anything we develop based on that feedback.</p>
         `
     },
     {
